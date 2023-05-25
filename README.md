@@ -1,1 +1,2 @@
-# Lucas2023
+# Sobre Lucas
+:guitar: Estudantes de **Pensamento Computacional**
